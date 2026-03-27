@@ -1,56 +1,289 @@
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
-    >
-    <img
-      alt="Logo do Cumbuca Dev"
-      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
-      width="20%"
-    >
-  </picture>
-</div>
-
-# <nome-do-repositório>
+# NOSS — Nosso Open Source Summit
 
 [Versão em Português](/README.md)
 
-## 💬 New Features and Reporting Bugs
+---
 
-If you would like to suggest new features or report bugs, just create a new [issue][github-issues] and we will respond there!
+## 🧾 Briefing
 
-(To learn more about GitHub issues, check out the [official GitHub documentation][github-issues-doc]).
+NOSS is an open gathering about **FLOSS (Free/Libre and Open Source Software)** in Brazil.
+
+We live in a world powered by open technologies — yet still loosely connected as a community locally.
+
+NOSS exists to change that.
+
+A space to bring together people who build, use, or want to start in FLOSS, strengthen projects, share real experiences, and create pathways for entry, growth, and sustainability in the ecosystem.
+
+📅 May 30  
+📍 Online — Cumbuca Dev YouTube channel  
+
+Free, open, and collectively built.
+
+---
+
+## 🌱 About NOSS
+
+FLOSS — *Free/Libre and Open Source Software* — underpins the digital infrastructure of the world.
+
+Most of the technology we rely on exists because people, communities, and organizations collaboratively build open systems.
+
+And yet, there is a paradox:
+
+> the people who build this foundation are still largely invisible.
+
+In Brazil:
+
+- we have one of the largest developer communities in the world  
+- we are rapidly growing in usage and contributions to open platforms  
+- we actively participate in global projects  
+
+But we also face:
+
+- low articulation between communities  
+- limited visibility for maintainers  
+- challenges in financial sustainability  
+- real barriers for newcomers  
+
+---
+
+## 📊 Data & Context
+
+- Brazil is among the fastest-growing countries in number of developers on GitHub  
+- Latin America is one of the fastest-growing regions in open source contributions  
+- Millions of people in Brazil rely on FLOSS daily  
+
+📚 Sources:
+
+- https://octoverse.github.com/  
+- https://survey.stackoverflow.co/  
+- https://github.blog/news-insights/research/  
+
+Growth exists — but growth alone does not build community.
+
+---
+
+## 🎯 Why we are doing this
+
+NOSS exists to connect this ecosystem.
+
+We aim to:
+
+- strengthen open source projects in Brazil  
+- create opportunities and sustainable pathways  
+- give visibility to maintainers  
+- share real-world experiences  
+- bring new contributors into the ecosystem  
+
+And most importantly:
+
+> move from isolated efforts to a connected community.
+
+---
+
+## 🌍 What we want to build
+
+NOSS is not a one-time event.
+
+It is a starting point for:
+
+- a national FLOSS network  
+- recurring gatherings  
+- collaboration between communities  
+- stronger open ecosystems  
+
+---
+
+## 🔓 Open by design
+
+Everything in this project is designed to be **reproducible**.
+
+You can:
+
+- reuse this structure  
+- adapt this event  
+- organize your own edition  
+
+📌 Guide (in progress):  
+https://github.com/cumbucadev/NOSS/tree/main/guia
+
+> NOSS does not belong to a single organization.  
+> It is meant to be adopted by the community.
+
+---
+
+## 📊 Estimated audience
+
+Based on:
+
+- Cumbuca Dev reach  
+- previous community events  
+- ecosystem growth  
+
+We expect:
+
+- **1,000 to 3,000 live participants**  
+- extended reach through recordings  
+- national and international participation  
+
+---
+
+## 🧠 Event structure
+
+- Main channel (YouTube):  
+  - Keynotes  
+  - FLOSS in Practice  
+  - Final panel  
+
+- Parallel link:  
+  - FLOSS Fundamentals  
+
+- Continuous flow (no breaks)
+
+---
+
+## 🧩 Tracks
+
+### 🟣 FLOSS in Practice
+Applied and technical content.
+
+- Real-world projects  
+- Governance  
+- Maintainers  
+- Infrastructure and scale  
+
+---
+
+### 🔵 FLOSS Fundamentals
+For those getting started.
+
+- Introduction to FLOSS  
+- Git & GitHub  
+- First contribution  
+- Career paths  
+
+---
+
+## 🗓️ Event Schedule
+
+👉 Access the full schedule:  
+https://github.com/cumbucadev/NOSS/blob/main/grade-completa.md
+
+---
+
+## 🎤 Formats
+
+- Talks → 30 min + 5 min Q&A  
+- Tutorials → 30 min + 10 min Q&A  
+- Keynotes → 45 min + 15 min Q&A  
+- Panel → 40 min + 10 min Q&A  
+
+---
+
+## 💰 Sponsorship
+
+NOSS is supported by organizations that believe in strengthening FLOSS.
+
+Ways to support:
+
+- Sponsored keynotes  
+- Institutional support  
+- Brand presence  
+- Technical sessions (open source projects or real cases)  
+
+> Sponsored content must be technical and relevant — not purely promotional.
+
+---
+
+## 🤝 Volunteering
+
+This event is built by volunteers.
+
+You can contribute with:
+
+- organization  
+- communication  
+- moderation  
+- technical support  
+
+📧 eventos@cumbuca.dev  
+
+---
+
+## 🌱 This repository
+
+This repository is part of the event itself.
+
+Here you will find:
+
+- structure  
+- documentation  
+- materials  
+
+And most importantly:
+
+> a starting point to create new NOSS editions.
+
+---
+
+## 💜 About Cumbuca Dev
+
+NOSS is organized with <3 by Cumbuca Dev and its volunteer community.
+
+Cumbuca Dev is a community focused on democratizing access to technology in Brazil through:
+
+- open education  
+- inclusion  
+- collaboration  
+- collective building  
+
+🔗 https://cumbuca.dev  
+
+More than teaching technology, Cumbuca builds community.
+
+---
+
+## 💜 Principles
+
+- Open by default  
+- Community-driven  
+- Reproducible  
+- Accessible  
+- Collaborative  
+
+---
+
+## 💬 Feature Requests & Bug Reports
+
+If you want to suggest improvements or report issues:
+
+👉 https://github.com/cumbucadev/NOSS/issues  
+
+---
 
 ## 💡 Questions? Ideas?
 
-Do you have questions about how to use the library? New ideas for the project? Want to share something with us? Feel free to create a topic in our [Discussions][github-discussions], and we’ll interact with you there!
+Join the discussion:
 
-(To learn more about GitHub discussions, check out the [official GitHub documentation][github-discussions-doc]).
+👉 https://github.com/cumbucadev/NOSS/discussions  
 
-## 💻 Contributing to the Project's Code
+---
 
-Your contribution is always very welcome! To help you get started, we’ve prepared the following files:
+## 💻 Contributing
 
-- [CONTRIBUTING.md](/CONTRIBUTING.md): Contribution guidelines **(PT-BR)**. Here you’ll find all the necessary instructions to contribute to the project.
-- [CONTRIBUTING_EN.md](/CONTRIBUTING_EN.md): English version of the contribution guidelines.
-- [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md): Code of conduct **(PT-BR)**. Our code of conduct, which defines expectations for respectful and inclusive interactions within the community.
-- [CODE_OF_CONDUCT_EN.md](/CODE_OF_CONDUCT_EN.md): English version of the code of conduct.
-- [CORE_TEAM.md](/CORE_TEAM.md): Core team information **(PT-BR)**. Lists and presents information about the members of the project’s core team, including their roles and contact details.
-- [CORE_TEAM_EN.md](CORE_TEAM_EN.md): English version of the list and information about the project’s core team.
-- [LICENSE.md](/LICENSE.md): Project license **(EN)**. Details about the project’s license. It defines what you can and cannot do with the code. In general, the license allows you to use, modify, and distribute the code as long as you follow the defined terms. However, it’s important to check for specific restrictions, such as credit attribution to the original author or prohibition of commercial use.
-- [VISION.md](/VISION.md): Project vision document **(PT-BR)**. It explains the project’s purpose, target audience, future vision, principles, and overall context within Cumbuca.
-- [VISION_EN.md](/VISION_EN.md): English version of the project vision document.
+Before contributing, please read:
 
-Make sure to read these files carefully before contributing. If you have any difficulties or questions, feel free to ask us using [GitHub Discussions][github-discussions]. Every bit of help counts!
+- [CONTRIBUTING.md](/CONTRIBUTING.md)  
+- [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md)  
+- [VISION.md](/VISION.md)  
+
+---
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+<a href="https://github.com/cumbucadev/NOSS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/NOSS" />
+</a>
 
-_Made with [contrib.rocks](https://contrib.rocks)._
+<br/>
 
-[github-discussions-doc]: https://docs.github.com/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
-[github-issues-doc]: https://docs.github.com/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+_Made with https://contrib.rocks_
