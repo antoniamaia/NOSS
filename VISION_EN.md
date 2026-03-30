@@ -1,86 +1,137 @@
 # Project Vision
 
-[Versão em Português](/VISION.md)
+#### [Versão em Português](/VISION.md)
 
-This document describes **the why, the who, and the how** of this project.
-It is not a technical manual, but an alignment guide for users,
-contributors, and maintainers.
+This document describes the **why**, the **who**, and the **how** of NOSS — Nosso Open Source Summit.
+
+It is not a technical manual, but an alignment guide for users, contributors, and maintainers of the project.
+
+---
 
 ## 1. Purpose
 
-<!--
-This section exists to make it clear **why this project exists**.
-It prevents the project from becoming just a repository of files without context
-and helps anyone — even without prior knowledge — understand its value.
--->
+NOSS exists to strengthen the **FLOSS (Free/Libre and Open Source Software)** ecosystem in Brazil.
 
-<!-- Explain **why** this project exists.
+We start from a clear reality:
 
-* What real problem does it solve?
-* For whom is this problem relevant?
-* Why does this project make sense within the Cumbuca ecosystem?
+* open technologies power global digital infrastructure
+* Brazil has a growing base of people using and contributing to open source
+* communities are still loosely connected
+* maintainers face visibility and sustainability challenges
+* newcomers face real entry barriers
 
-> This section should be understandable by someone who has **never heard of** the project.
--->
+In this context, NOSS acts as a point of convergence.
 
-<!--
-Example:
+A space to:
 
-This project exists to help beginners understand fundamental
-version control concepts in an accessible and practical way.
-It addresses the common difficulty of learning Git only through isolated
-commands, without understanding the context and underlying concepts.
+* connect people and communities
+* give visibility to those who build
+* share real-world experiences
+* lower barriers to entry
+* strengthen existing projects
 
-Within Cumbuca, the project connects with the mission of open education,
-serving as supporting material for individual study, mentorships, and
-collective learning initiatives.
--->
+---
 
-## 2. Future Vision
+## 2. Vision
 
-<!--
-The future vision describes **where the project wants to go**.
-It serves as a reference to evaluate whether changes and contributions
-are aligned with the desired direction.
--->
+NOSS is not a one-time event.
 
-<!-- Describe the ideal state of the project in the medium/long term.
+It is part of a broader effort to build a more connected, sustainable, and accessible FLOSS ecosystem in Brazil.
 
-* How should the project be used in 1–3 years?
-* What impact does it aim to generate?
-* What would “success” mean for this project?
--->
+In the long term, we aim to:
 
-<!--
-Example:
+* strengthen a national FLOSS network
+* increase participation of Brazilian contributors in global projects
+* support project and maintainer sustainability
+* encourage the creation of new open initiatives
+* create continuous spaces for exchange and collaboration
 
-In a few years, this project is expected to become a reference
-in Portuguese for learning Git, used by communities,
-independent courses, and educational initiatives.
+NOSS is also designed to be reproducible.
 
-The project’s success will be measured more by the clarity of the learning
-it enables than by the number of features added.
--->
+This means:
 
-## 3. Target Audience
+* other communities can reuse this format
+* new editions can emerge independently
+* knowledge is openly shared
 
-<!--
-Defining the target audience avoids trying to please everyone at the same time.
-It helps make conscious decisions about language, technical depth,
-and project priorities.
--->
+---
 
-<!-- List and describe the main audiences of the project.
+## 3. Audience
 
-For each audience, answer:
-* What does this person gain by using the project?
-* What level of technical knowledge is expected?
--->
+NOSS is intended for multiple groups within the technology ecosystem:
 
-<!--
-Example:
+### People already working with FLOSS
 
-* Beginners: learn basic concepts without advanced prerequisites.
-* Educators: use the material as support for classes and mentorships.
-* Maintainers: find a well-organized and well-documented project.
--->
+* developers
+* maintainers
+* contributors
+
+---
+
+### People getting started or transitioning
+
+* students
+* career switchers
+* people interested in open source
+
+---
+
+### Communities and organizations
+
+* local tech groups
+* educational initiatives
+* companies using or contributing to open source
+
+---
+
+## 4. How we operate
+
+NOSS is guided by a set of core principles:
+
+### Openness
+
+Everything is built and documented openly.
+
+---
+
+### Collaboration
+
+The project is collective and welcomes diverse contributions.
+
+---
+
+### Accessibility
+
+We aim to lower entry barriers and expand participation.
+
+---
+
+### Reproducibility
+
+The event structure can be reused by other communities.
+
+---
+
+### Sustainability
+
+The focus is on long-term ecosystem strengthening, not just a single event.
+
+---
+
+## 5. What NOSS is not
+
+To maintain clarity:
+
+* it is not a traditional corporate event
+* it is not a space for commercial pitches
+* it is not a closed initiative
+
+---
+
+## 6. About this document
+
+This document may evolve over time.
+
+It exists to provide alignment and guide decisions as the project grows.
+
+---

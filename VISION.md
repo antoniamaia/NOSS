@@ -1,86 +1,137 @@
 # Visão do Projeto
 
-[English Version](/VISION_EN.md)
+#### [English Version](/VISION_EN.md)
 
-Este documento descreve **o porquê, o para quem e o como** deste projeto.
-Ele não é um manual técnico, mas um guia de alinhamento para pessoas usuárias,
-colaboradoras e mantenedoras.
+Este documento descreve o **porquê**, o **para quem** e o **como** do NOSS — Nosso Open Source Summit.
+
+Ele não é um manual técnico, mas um guia de alinhamento para pessoas usuárias, colaboradoras e mantenedoras do projeto.
+
+---
 
 ## 1. Propósito
 
-<!--
-Esta seção existe para deixar claro **por que este projeto existe**.
-Ela evita que o projeto vire apenas um repositório de arquivos sem contexto
-E ajuda qualquer pessoa — mesmo sem conhecimento prévio — a entender seu valor.
--->
+O NOSS existe para fortalecer o ecossistema de **FLOSS (Free/Libre and Open Source Software)** no Brasil.
 
-<!-- Explique **por que** este projeto existe.
+Partimos de um cenário concreto:
 
-* Qual problema real ele resolve?
-* Para quem esse problema é relevante?
-* Por que esse projeto faz sentido dentro do ecossistema da Cumbuca?
+* tecnologias abertas sustentam a infraestrutura digital global
+* o Brasil possui uma base crescente de pessoas que utilizam e contribuem com open source
+* ainda há baixa articulação entre comunidades
+* pessoas mantenedoras enfrentam desafios de visibilidade e sustentabilidade
+* pessoas iniciantes encontram barreiras reais de entrada
 
-> Esta seção deve ser compreensível por alguém que **nunca ouviu falar** do projeto.
--->
+Diante disso, o NOSS atua como um ponto de encontro.
 
-<!--
-Exemplo:
+Um espaço para:
 
-Este projeto existe para ajudar pessoas iniciantes a compreender conceitos
-fundamentais de versionamento de código de forma acessível e prática.
-Ele resolve a dificuldade comum de aprender Git apenas por meio de comandos
-isolados, sem entender o contexto e os conceitos por trás.
+* conectar pessoas e comunidades
+* dar visibilidade a quem constrói
+* compartilhar experiências reais
+* reduzir barreiras de entrada
+* fortalecer projetos existentes
 
-Dentro da Cumbuca, o projeto se conecta com a missão de educação aberta,
-servindo como material de apoio para estudos individuais, mentorias e
-formações coletivas.
--->
+---
 
 ## 2. Visão de Futuro
 
-<!--
-A visão de futuro descreve **onde o projeto quer chegar**.
-Ela serve como referência para avaliar se mudanças e contribuições
-estão alinhadas com o caminho desejado.
--->
+O NOSS não é um evento isolado.
 
-<!-- Descreva o estado ideal do projeto no médio/longo prazo.
+É uma iniciativa que busca contribuir para a construção de um ecossistema mais conectado, sustentável e acessível no Brasil.
 
-* Como o projeto deve ser usado em 1–3 anos?
-* Que impacto ele pretende gerar?
-* O que significaria “sucesso” para este projeto?
--->
+No longo prazo, buscamos:
 
-<!--
-Exemplo:
+* fortalecer uma rede nacional de FLOSS
+* ampliar a participação de pessoas brasileiras em projetos globais
+* apoiar a sustentabilidade de projetos e mantenedores
+* incentivar a criação de novas iniciativas abertas
+* consolidar espaços contínuos de troca e colaboração
 
-Daqui a alguns anos, espera-se que este projeto seja uma referência
-em português para o aprendizado de Git, utilizado por comunidades,
-cursos livres e iniciativas educacionais.
+Além disso, o NOSS é concebido como um modelo reproduzível.
 
-O sucesso do projeto será medido mais pela clareza do aprendizado
-gerado do que pela quantidade de funcionalidades adicionadas.
--->
+Isso significa que:
+
+* outras comunidades podem reutilizar este formato
+* novas edições podem surgir de forma independente
+* o conhecimento produzido é aberto
+
+---
 
 ## 3. Público-Alvo
 
-<!--
-Definir o público-alvo evita tentar agradar todo mundo ao mesmo tempo.
-Ajuda a tomar decisões conscientes sobre linguagem, profundidade técnica
-E prioridades do projeto.
--->
+O NOSS é direcionado a diferentes perfis dentro do ecossistema de tecnologia:
 
-<!-- Liste e descreva os principais públicos do projeto.
+### Pessoas que já atuam com FLOSS
 
-Para cada público, responda:
-* O que essa pessoa ganha ao usar o projeto?
-* Que nível de conhecimento técnico é esperado?
--->
+* desenvolvedoras
+* mantenedoras
+* contribuidoras
 
-<!--
-Exemplo:
+---
 
-* Pessoas iniciantes: aprendem conceitos básicos sem pré-requisitos avançados.
-* Pessoas educadoras: utilizam o material como apoio em aulas e mentorias.
-* Pessoas mantenedoras: encontram um projeto organizado e bem documentado.
--->
+### Pessoas em transição ou início de carreira
+
+* estudantes
+* pessoas migrando para tecnologia
+* pessoas interessadas em open source
+
+---
+
+### Comunidades e organizações
+
+* grupos locais de tecnologia
+* iniciativas educacionais
+* empresas que utilizam, contribuem ou têm projetos open source
+
+---
+
+## 4. Como atuamos
+
+O NOSS é guiado por alguns princípios centrais:
+
+### Abertura
+
+Tudo é construído de forma aberta e documentada.
+
+---
+
+### Colaboração
+
+O projeto é coletivo e acolhe contribuições diversas.
+
+---
+
+### Acessibilidade
+
+Buscamos reduzir barreiras de entrada e ampliar participação.
+
+---
+
+### Reprodutibilidade
+
+A estrutura do evento pode ser reutilizada por outras comunidades.
+
+---
+
+### Sustentabilidade
+
+O objetivo é fortalecer o ecossistema a longo prazo, não apenas realizar um evento pontual.
+
+---
+
+## 5. O que o NOSS não é
+
+Para manter clareza de posicionamento:
+
+* não é um evento corporativo tradicional
+* não é um espaço para pitch comercial
+* não é uma iniciativa fechada
+
+---
+
+## 6. Sobre este documento
+
+Este documento pode evoluir com o tempo.
+
+Ele existe para garantir alinhamento e orientar decisões, especialmente em momentos de crescimento do projeto.
+
+---
