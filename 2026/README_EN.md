@@ -190,6 +190,8 @@ Ways to support:
 - Brand presence  
 - Technical sessions (open source projects or real cases)  
 
+👉 Access the full sponsorship plan: [sponsorship-proposal.md](https://github.com/cumbucadev/NOSS/blob/main/2026/sponsorship-proposal.md)
+
 > Sponsored content must be technical and relevant — not purely promotional.
 
 ---
