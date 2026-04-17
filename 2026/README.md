@@ -100,7 +100,7 @@ Trilha introdutória para pessoas em início de jornada.
 
 A submissão de propostas será realizada por meio de Google Forms.
 
-A escolha considera acessibilidade e simplicidade, permitindo que pessoas em diferentes momentos da carreira participem sem depender de ferramentas mais complexas de CFP (Call For Papers).
+A escolha considera acessibilidade e simplicidade, permitindo que pessoas em diferentes momentos da carreira participem sem depender de ferramentas mais complexas de [CFP (Call For Papers)](https://dev.to/feministech/voce-sabe-o-que-e-call-for-papers-1lo5).
 
 👉 Link de submissão: (a definir)
 
