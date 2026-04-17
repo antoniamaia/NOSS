@@ -100,7 +100,7 @@ Trilha introdutória para pessoas em início de jornada.
 
 A submissão de propostas será realizada por meio de Google Forms.
 
-A escolha considera acessibilidade e simplicidade, permitindo que pessoas em diferentes momentos da carreira participem sem depender de ferramentas mais complexas de CFP.
+A escolha considera acessibilidade e simplicidade, permitindo que pessoas em diferentes momentos da carreira participem sem depender de ferramentas mais complexas de [CFP (Call For Papers)](https://dev.to/feministech/voce-sabe-o-que-e-call-for-papers-1lo5).
 
 👉 Link de submissão: (a definir)
 
@@ -134,7 +134,7 @@ Organizações interessadas podem contribuir com:
 * apresentações técnicas (projetos open source ou casos reais)
 
 👉 Acesse o plano completo de patrocínio:
-[proposta-patrocinio.md](2026/proposta-patrocinio.md)
+[proposta-patrocinio.md](https://github.com/cumbucadev/NOSS/blob/main/2026/proposta-patrocinio.md)
 
 Os recursos são destinados à realização do evento e à continuidade da iniciativa.
 
